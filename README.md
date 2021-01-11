@@ -1,2 +1,3 @@
-# valhalla
-plantilla para valhalla iesgn11
+# madufit
+
+Aplicación de entrenamiento para el gimnasio.

@@ -1,0 +1,18 @@
+/*nuevo */
+h1#h1{
+    font-weight: bold;
+    font-size: 3em;
+    font-family: 'Russo One', sans-serif;
+    }
+    
+    div#lista{
+    display: block;
+    
+    }
+    
+    div.lunes{
+        background-color: red;
+        border-radius: 1em;
+        text-align: center;
+        color: white !important;
+    }
