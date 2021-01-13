@@ -1,3 +1,3 @@
-# madufit
+# Valhalla.IesGN11.es
 
-Aplicación de entrenamiento para el gimnasio.
+Web de información del servidor de OVH.
