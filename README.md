@@ -1,3 +1,3 @@
-# Valhalla.IesGN11.es
+# Valhalla.iesgn11.es
 
 Web de información del servidor de OVH.
